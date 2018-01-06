@@ -1,3 +1,6 @@
+安装python 库
+opencv >3.1 dlib=19.4
+
 使用:
 
 python face-dect.py -vp /path/to/video/xx.mp4

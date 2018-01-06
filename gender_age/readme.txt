@@ -13,8 +13,8 @@ age
 model url: https://drive.google.com/drive/folders/0B8N1oYmGLVGWemZQd3JMOEZvdGs
 baidu:链接: https://pan.baidu.com/s/1kU7HKVl 密码: 623k
 
-使用 
+使用
 python guess.py  --class_type age --model_dir ./data/22801 --filename ./data/WI.jpg
 
-
-python install opencv >3.1 and tensorflow>=1.2
+需要安装python 库
+opencv >3.1 and tensorflow>=1.2

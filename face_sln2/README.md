@@ -1,4 +1,5 @@
 #安装依赖
+安装python 库 opencv >= 3.1
 
 git clone https://github.com/fangxu622/face_seeta
 
